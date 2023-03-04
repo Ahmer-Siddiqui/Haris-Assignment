@@ -1,0 +1,265 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    /* background-color: grey; */
+}
+
+.navbar {
+    height: 50px;
+    width: 100%;
+    background-color: grey;
+    display: flex;
+}
+
+.logo {
+    width: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: yellow;
+
+}
+
+p {
+    color: black;
+padding: 4%;
+}
+
+
+
+a {
+    text-decoration: none; 
+    color: black;
+}
+
+.option {
+    width: 50%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+
+.links {
+    width: 25%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    height: 10;
+}
+
+.name {
+    width: 33%;
+    background-color: brown;
+    display: flex;
+    flex-direction: column;
+    padding: 100px;
+    background-color: grey;
+}
+
+span {
+color: white;
+    border-bottom: 2px solid yellow;
+}
+
+h1 {
+    color: white;
+    font-size: xx-large;
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    font-size: xxx-large;
+
+}
+
+.myimage {
+    width: 30%;
+background-color: grey;
+border-radius: 50px black;
+
+}
+
+.mypic {
+    height: 67%;
+    display: flex;
+    justify-content: center;
+    border-radius: 50%;
+    background-color: darkgray;
+}
+
+.intro {
+    width: 37%;
+    background-color: beige;
+    background-color: grey;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+}
+
+.arrow {
+    color: yellow;
+}
+
+.social {
+    display: flex; 
+    justify-content: space-around;
+}
+
+.box {
+    width: 70%;
+    height: 80px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 12%;
+    background-color: grey;
+    display: flex;
+    align-items: center;
+    border: 5px solid black;
+    margin-top: -14%;
+
+}
+
+.button1 {
+    background-color: grey;
+    height: 50px;
+    width: 10%;
+    background-color: rgb(red, rgba(132, 173, 132, 0), blue);
+    border-color: rgba(56, 48, 48, 0.993);
+    color: white;
+}
+
+.button2 {
+    background-color: grey;
+    height: 50px;
+    width: 10%;
+    background-color: rgb(red, rgba(132, 173, 132, 0), blue);
+    border-color: rgba(56, 48, 48, 0.993);
+    color: white;
+
+}
+
+.button3 {
+    background-color: grey;
+    height: 50px;
+    width: 10%;
+    background-color: rgb(red, rgba(132, 173, 132, 0), blue);
+    border-color: rgba(56, 48, 48, 0.993);
+    color: white;
+    
+}
+
+.button4 {
+    background-color: grey;
+    height: 50px;
+    width: 10%;
+    background-color: rgb(red, rgba(132, 173, 132, 0), blue);
+    border-color: rgba(56, 48, 48, 0.993);
+    color: white;
+}
+
+.container2 {
+display: flex;
+
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+}
+
+.info {
+width: 50%;
+background-color: grey;
+height: 50%;
+}
+
+.prodes {
+width: 70%;
+background-color: grey;
+height: 50%;
+}
+
+/* h1 {
+margin-bottom: 10px;
+
+} */
+
+.golden {
+    color: gold;
+    font-size: xx-large;
+}
+
+.mainpro {
+    display: flex;
+justify-content: space-evenly;
+margin-left: 5%;
+}
+
+.mainpro2 {
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.ui {
+   display: flex; 
+   color: white;
+   border-bottom: 1px solid black;
+
+}
+
+.uiedit {
+    width: 20%;
+    height: 10%;
+    margin-left: 10%;
+margin-top: 5%;
+}
+
+h4 {
+    margin: 16px;
+}
+
+p {
+    margin: 0px;
+}
+
+
+.front {
+    display: flex;
+    color: white;
+    border-bottom: 1px solid black;
+}
+
+.frontedit {
+    width: 20%;
+    height: 61px;
+    margin-left: 10%;
+margin-top: 5%;
+}
+
+.mobapp {
+display: flex;
+color: white;
+border-bottom: 1px solid black;
+}
+
+.mobedit {
+    width: 20%;
+    margin-left: 10%;
+margin-top: 5%;
+
+}
